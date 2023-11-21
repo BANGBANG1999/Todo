@@ -1,0 +1,16 @@
+.container{
+    height: 10vh;
+    width: 100%;
+    /* background-color: #3E4648; */
+    background-color: #008080;
+    text-align: center;
+    color: white;
+    
+
+}
+.projectName{
+    text-align: center;
+}
+.projectText{
+    margin-top: 4vh;
+}

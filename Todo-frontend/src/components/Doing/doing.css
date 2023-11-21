@@ -1,0 +1,12 @@
+.doing{
+    height: 5vh;
+    background-color: white;
+    width: 33.3%;
+    margin-top: 5vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.plus{
+    cursor: pointer;
+}
